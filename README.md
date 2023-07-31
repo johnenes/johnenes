@@ -1,4 +1,10 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Eneojo===================================================================================================================================Cyber Security Expert and Software Engineer-------------------------------------------I am a skilled Cyber Security Expert and Software Engineer, driven by a strong passion for continuous learning and making a positive impact in the tech industry. My deep knowledge in developing seamless and secure applications, along with expertise in web application security, empowers me to design and build robust solutions in the ever-evolving tech space. With proficiency as a Full Stack Developer, I am committed to ensuring cutting-edge security in every aspect of my work.* 🌍  I'm based in Nigeria* ✉️  You can contact me at [johneneojo1@gmail.com](mailto:johneneojo1@gmail.com)* 🧠  I'm learning React* 🤝  I'm open to collaborating on projects* ⚡  I'm a knight , wanting the world to know
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Eneojo===================================================================================================================================Cyber Security Expert and Software Engineer-------------------------------------------I am a skilled Cyber Security Expert and Software Engineer, driven by a strong passion for continuous learning and making a positive impact in the tech industry. My deep knowledge in developing seamless and secure applications, along with expertise in web application security, empowers me to design and build robust solutions in the ever-evolving tech space. With proficiency as a Full Stack Developer, I am committed to ensuring cutting-edge security in every aspect of my work.
+ 
+* 🌍  I'm based in Nigeria
+* ✉️  You can contact me at [johneneojo1@gmail.com](mailto:johneneojo1@gmail.com)
+* 🧠  I'm learning React* 🤝  I'm open to collaborating on projects
+* ⚡  I'm a knight , wanting the world to know
+  
 
 ### Skills
 
